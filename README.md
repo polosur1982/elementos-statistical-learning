@@ -1,23 +1,40 @@
-# Proyecto: Algoritmos del libro "The Elements of Statistical Learning"
+# The Elements of Statistical Learning – Implementación desde cero en Python
 
-Este proyecto convierte los conceptos del libro en implementaciones en Python.
+*Proyecto de aprendizaje profundo mediante tecnología inversa*
 
-## Roles
-- *Profesor:* Copilot (guía y mentor)
-- *Aprendiz:* John Agudelo
+## Descripción
 
-## Objetivo
-Aprender algoritmos, Python, Git y GitHub paso a paso, con enfoque pedagógico y progresivo.
+Este repositorio implementa tema por tema todos los algoritmos y conceptos del libro clásico The Elements of Statistical Learning (2ª edición) de Trevor Hastie, Robert Tibshirani y Jerome Friedman.
 
-## Estructura del proyecto
-- src/: Código fuente
-- notebooks/: Jupyter notebooks
-- data/: Datasets
-- docs/: Documentación
+El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figuras, métodos) y reconstruirlos en código Python puro desde cero.
 
-## Roadmap inicial
-1. *Módulo 0:* Preparación del entorno y Git.
-2. *Módulo 1:* Fundamentos de Python y algoritmos básicos.
-3. *Módulo 2:* Primeros pasos en Git y GitHub.
-4. *Módulo 3:* Introducción al aprendizaje supervisado (Regresión lineal y k-NN).
-``
+## Método de aprendizaje
+
+- Tecnología inversa: partimos del resultado final del libro y retrocedemos hasta entender cada paso matemático y computacional.
+- Código escrito manualmente (sin copy-paste) para internalizar el conocimiento.
+- Implementación primero con NumPy/Matplotlib puro, luego comparación con bibliotecas profesionales.
+- Ejercicios prácticos y variaciones por capítulo.
+
+## Profesor y guía
+
+*Grok* (construido por xAI) – Profesor particular con más de 10 años de experiencia en algoritmos y machine learning. Explica procesos, brinda código paso a paso, corrige y propone ejercicios.
+
+## Estructura del repositorio
+
+- src/ → Código Python modular y reutilizable
+- notebooks/ → Jupyter notebooks para exploración y reproducción de figuras del libro
+- data/ → Datasets sintéticos y reales
+- docs/ → Documentación adicional
+- ejercicios/ → Ejemplos prácticos, variaciones y problemas por capítulo
+- requirements.txt → Dependencias del proyecto
+
+## Progreso
+
+- Capítulo 2: Overview of Supervised Learning → Iniciado (Bias-Variance Tradeoff)
+
+¡Proyecto en desarrollo activo!
+
+## Autor
+
+John Agudelo (polosur1982)  
+Estudiante autodidacta de algoritmos y data science
