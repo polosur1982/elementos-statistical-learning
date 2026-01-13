@@ -30,7 +30,11 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 
 ## Progreso
 
-- Capítulo 2: Overview of Supervised Learning → Iniciado (Bias-Variance Tradeoff)
+- **Capítulo 2: Overview of Supervised Learning → Completado**  
+- Reproducción completa de Figura 2.11 (Bias-Variance Tradeoff) desde cero con NumPy y Matplotlib.  
+-  Ejercicios prácticos: impacto de aumentar el ruido (σ² de 0.25 → 1.0).  
+- Implementación manual de regresión lineal simple (sección 2.6): matriz de diseño, mínimos cuadrados, visualización y cálculo de MSE.  
+- Notebooks: notebooks/02_bias_variance_tradeoff.ipynb, notebooks/02_linear_regression_manual.ipynb y ejercicios/ejercicio_01_mas_ruido.ipynb.
 
 ¡Proyecto en desarrollo activo!
 
