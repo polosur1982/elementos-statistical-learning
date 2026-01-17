@@ -36,6 +36,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Implementación manual de regresión lineal simple (sección 2.6): matriz de diseño, mínimos cuadrados, visualización y cálculo de MSE.  
 - Notebooks: notebooks/02_bias_variance_tradeoff.ipynb, notebooks/02_linear_regression_manual.ipynb y ejercicios/ejercicio_01_mas_ruido.ipynb.
 - Capitulo 3: linear Methods for Regression → Avanzado (Ridge manual + shrinkage path + seleccion de λ optimo con test MSE)
+- Linear Methods for regression  → Avanzado (Ridge + Lasso manual, shrinkage/path, seleccion de λ)
 
 ¡Proyecto en desarrollo activo!
 
