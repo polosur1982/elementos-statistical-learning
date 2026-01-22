@@ -43,6 +43,8 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Seleccion de λ optimo.
 - Ejercicios comparativo en /ejercicios/ con conclusiones
 
+- Capitulo 4: Basis Expansions and Regularization →  Iniciado (Polinomio + ridge regularization, path de coeficientes) 
+
 ¡Proyecto en desarrollo activo!
 
 ## Autor
