@@ -43,11 +43,13 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Seleccion de λ optimo.
 - Ejercicios comparativo en /ejercicios/ con conclusiones
 
-- Capitulo 4: Basis Expansions and Regularization →  Avanzado (Polinomio + ridge regularization, path de coeficientes) 
+- **Capitulo 4: Basis Expansions and Regularization →  Completado**
+
+- Polinomio + ridge regularization, path de coeficientes
 - Polinomios regularizados + smoothing splines con pruebas de λ 
 - Smolthing splines + GAM basico con superficie3D
 - GAMs con multiples predictores + efectos parciales + selecion via λ 
-
+- Ejercicio final: comparacion de λ y seleccion en GAMs
 
 ¡Proyecto en desarrollo activo!
 
