@@ -53,6 +53,8 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 
 - Capitulo 5 → Iniciado (Kernel regression Nadaraya-Watson + efecto de bandwidth h)
 
+- Nadaraya-Watson + local regression ponderada con Kernel
+
 ¡Proyecto en desarrollo activo!
 
 ## Autor
