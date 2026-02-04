@@ -56,7 +56,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Nadaraya-Watson (Gaussian, Epanechnikow)
 - Nadaraya-Watson + local regression ponderada con Kernel
 - Nadaraya-Watson + local regression + seleccion de h por LOOCV
-- Ejercicio comparativo + concluciones
+- Ejercicio comparativo: Nadaraya-Watson vs Loess + kernels complejos
 
 ¡Proyecto en desarrollo activo!
 
