@@ -51,10 +51,12 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - GAMs con multiples predictores + efectos parciales + selecion via λ 
 - Ejercicio final: comparacion de λ y seleccion en GAMs
 
-- Capitulo 5 → Avanzado (Kernel regression Nadaraya-Watson + efecto de bandwidth h)
+**Capitulo 5: Kernel Methods and Local Regression → Completado**
 
+- Nadaraya-Watson (Gaussian, Epanechnikow)
 - Nadaraya-Watson + local regression ponderada con Kernel
 - Nadaraya-Watson + local regression + seleccion de h por LOOCV
+- Ejercicio comparativo + concluciones
 
 ¡Proyecto en desarrollo activo!
 
