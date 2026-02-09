@@ -63,6 +63,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Comparacion de metodos de resmpling
 - AIC/BIC para seleccion de modelos + comparacion de grados
 - Best Subset Selection + criterios Cp/AIC/BIC
+- Bootstrap para bias/variance + distribucion de coeficientes
 
 ¡Proyecto en desarrollo activo!
 
