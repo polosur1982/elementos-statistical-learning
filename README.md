@@ -58,12 +58,13 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Nadaraya-Watson + local regression + seleccion de h por LOOCV
 - Ejercicio comparativo: Nadaraya-Watson vs Loess + kernels complejos
 
-- **Capitulo 6: Model Assessment and Selection Avanzado**
-- Estimacion de error por k-fold CV, LOOCV y Bootstrap
+- **Capitulo 6: Model Assessment and Selection Completado**
+- Estimacion de error por k-fold CV, LOOCV y Bootstrap (bias/variance)
 - Comparacion de metodos de resmpling
 - AIC/BIC para seleccion de modelos + comparacion de grados
 - Best Subset Selection + criterios Cp/AIC/BIC
 - Bootstrap para bias/variance + distribucion de coeficientes
+- Ejercicio comparativo + conclusiones en Markdown
 
 ¡Proyecto en desarrollo activo!
 
