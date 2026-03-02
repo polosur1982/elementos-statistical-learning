@@ -72,6 +72,10 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Regression trees + Bagging + Random Forest con seleccion aleatoria de features.
 - Ejercicio comparativo Bagging vs RF + concluciones en Markdown.
 
+**Capitulo 8: Avanzado (Gradient Boosting desde cero con stumps + correccion de pesos**
+)
+
+
 ¡Proyecto en desarrollo activo!
 
 ## Autor
