@@ -69,6 +69,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 **Capitulo 7: Additive Models, Trees, and Related Methods Avanzado**
 - Regression Trees desde cero + prueba de overfitting con profundidad.
 - Regression trees + Bagging para reduccion de varianza.
+- Regression trees + Bagging + Random Forest con seleccion aleatoria de features.
 
 ¡Proyecto en desarrollo activo!
 
