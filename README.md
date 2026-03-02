@@ -70,6 +70,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Regression Trees desde cero + prueba de overfitting con profundidad.
 - Regression trees + Bagging para reduccion de varianza.
 - Regression trees + Bagging + Random Forest con seleccion aleatoria de features.
+- Ejercicio comparativo Bagging vs RF + concluciones en Markdown.
 
 ¡Proyecto en desarrollo activo!
 
