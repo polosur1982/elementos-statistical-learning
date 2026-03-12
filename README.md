@@ -77,6 +77,10 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Correcion de pesos y ajustes secuencial de reciduos.
 - Grafico de ajuste + concluciones en Markdown.
 
+**Capitulo 9: Support Vector Machines → Inicado**
+- SRV lineal desde cero (dual formulation simplificad).
+- Implementacion manual + grafico de ajuste y support vectors.
+
 
 
 ¡Proyecto en desarrollo activo!
