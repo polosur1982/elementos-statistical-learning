@@ -77,10 +77,12 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Correcion de pesos y ajustes secuencial de reciduos.
 - Grafico de ajuste + concluciones en Markdown.
 
-**Capitulo 9: Support Vector Machines → Avanzado**
-- SRV lineal desde cero (dual formulation simplificad).
+**Capitulo 9: Support Vector Machines → Completado**
+- SRV lineal desde cero  (dual, support vectors, tubo ε).
 - Implementacion manual + grafico de ajuste y support vectors.
-- SVR lineal + kernel RBF + comparativo en datos no lineales
+- SVR lineal + kernel RBF. 
+- Comparativo lineal vs RBF en datos no lineales.
+- Conclusiones en Markdown (observacion sobre superposicion en datos lineales).
 
 
 
