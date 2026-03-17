@@ -84,6 +84,11 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Comparativo lineal vs RBF en datos no lineales.
 - Conclusiones en Markdown (observacion sobre superposicion en datos lineales).
 
+**Capitulo 10: Neural Networks → Completado**
+- Red feed-forward con 1 capa oculta desde cero.
+- Backpropagation manual + entrenamiento.
+- Grafico de ajuste + conclusiones en Markdown. 
+
 
 
 ¡Proyecto en desarrollo activo!
