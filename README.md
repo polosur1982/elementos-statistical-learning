@@ -89,9 +89,10 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Backpropagation manual + entrenamiento.
 - Grafico de ajuste + conclusiones en Markdown. 
 
-- **Capítulo 11: Unsupervised Learning → Iniciado** 
+- **Capítulo 11: Unsupervised Learning → Avanzado** 
   - PCA desde cero (centrado, covarianza, eigenvalores, proyección).  
   - Ejemplo: espiral 3D con ruido → desenrollada en 2D.
+  - PCA + K-means desde cero + clustering en datos poryectados.
 
 
 
