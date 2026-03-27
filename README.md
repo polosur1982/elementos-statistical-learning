@@ -93,6 +93,7 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
   - PCA desde cero (centrado, covarianza, eigenvalores, proyección).  
   - Ejemplo: espiral 3D con ruido → desenrollada en 2D.
   - PCA + K-means desde cero + clustering en datos poryectados.
+  - PCA + k-means + clustering jerarquico con dendogramas
 
 
 
