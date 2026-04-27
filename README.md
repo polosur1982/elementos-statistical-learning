@@ -89,13 +89,15 @@ El enfoque es 100% práctico: desarmar cada sección del libro (ecuaciones, figu
 - Backpropagation manual + entrenamiento.
 - Grafico de ajuste + conclusiones en Markdown. 
 
-- **Capítulo 11: Unsupervised Learning → Avanzado** 
+- **Capítulo 11: Unsupervised Learning → Completado** 
   - PCA desde cero (centrado, covarianza, eigenvalores, proyección).  
   - Ejemplo: espiral 3D con ruido → desenrollada en 2D.
   - PCA + K-means desde cero + clustering en datos poryectados.
   - PCA + k-means + clustering jerarquico con dendogramas
   - PCA + k-means + jerarquico + t-SNE
   - Comparacion PCA (lineal) vs t-SNE (no lineal) en maniforld de espiral.
+  - PCA, K-means, Clustering jerarquico, t-SNE, DBSCAN(deteccion de anomalias).
+  - Comparativos y conclusiones en Markdowm.
 
 
 ¡Proyecto en desarrollo activo!
